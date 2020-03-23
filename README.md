@@ -1,6 +1,6 @@
 # personal 21 Savage Project
 
-![21 21](public/sav.jpg)
+![21 21](img/sav.jpg)
 
 ## Installation
 
